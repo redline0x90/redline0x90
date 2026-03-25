@@ -23,8 +23,8 @@ Welcome to my GitHub! I'm a **Security Researcher**, **Programmer**, and **Tech 
 
 ## 📬 Get in Touch
 
-- **LinkedIn**: [Your LinkedIn](linkedin.com/in/bug404larson)
-- **Website**: [yourwebsite.com](bugeffect.onrender.com)
+- **LinkedIn**: [LinkedIn](linkedin.com/in/bug404larson)
+- 
 
 ## 🤝 Let's Build Cool Stuff Together
 
